@@ -1,0 +1,14 @@
+table1:
+  name: "1.xlsx"
+  sheet: "1"
+  column: "B"
+  header: "Номер в госреестре"
+
+table2:
+  name: "2.xlsx"
+  sheet: "export_fif_arshin"
+  column: "A"
+  header: "numbersi"
+
+output:
+  name: "output.csv"
